@@ -5,6 +5,6 @@ import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
 public class cla {
 
     public static void main(String[] args) {
-        System.out.println("nihao");
+        System.out.println("nihao88888");
     }
 }
